@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A tech-centric blog because the world needs more blogs.
 twitter_username: username
 github_username: mmcintyre1
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -56,34 +56,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Michael McIntyre"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: Michael McIntyre
+  avatar: /assets/images/bio-photo.jpg
+  bio: I like technology and technology accessories.
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/mmcintyre1
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/mmcintyre1
 
 defaults:
   # _posts

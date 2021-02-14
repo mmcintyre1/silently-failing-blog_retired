@@ -3,6 +3,7 @@ title: "A Memory Called Empire"
 date: 2021-02-14
 actions:
   label: Read
+rating: 3
 header:
   teaser: /assets/images/books/a_memory_called_empire.jpg
 sidebar:
@@ -16,4 +17,4 @@ sidebar:
     text: 123,456
 
 ---
-# Here is some content
+{% include ratings.html rating=4%}

@@ -13,13 +13,4 @@ sidebar:
   - title: Pages
     text: 123,456
 ---
-<style>
-.checked {
-  color: orange;
-}
-</style>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
+{% include ratings.html rating=3%}

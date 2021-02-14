@@ -1,0 +1,14 @@
+<style>
+  .checked {
+    color: orange;
+  }
+</style>
+<div>
+  {% for i in (1..5) %}
+    {% if i <= include.rating %}
+      <span class="fa fa-star checked"></span>
+    {% else %}
+      <span class="fa fa-star"></span>
+    {% endif %}
+  {% endfor %}
+</div>

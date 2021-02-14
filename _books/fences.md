@@ -13,4 +13,4 @@ sidebar:
   - title: Pages
     text: 123,456
 ---
-# Here is some content
+{% include ratings.html rating=4%}

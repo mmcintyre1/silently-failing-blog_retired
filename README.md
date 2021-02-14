@@ -9,3 +9,7 @@ And another thing: the world needs me. Rather, I need the world to need me. I'm 
 [ X ] Figure out how to do book covers for the book reviews
 [ X ] Add in published date to entry__items
 [ ] Add in book reviews to home page (in addition to posts)
+[ ] Add template for Book Reviews
+[ ] Add template for Posts
+[ ] Write About section
+[ ] Walk through all the settings again

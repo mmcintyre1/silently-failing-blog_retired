@@ -4,12 +4,12 @@ This is my blog. There are many like it, but this one is mine. I can't guarantee
 And another thing: the world needs me. Rather, I need the world to need me. I'm sure the site traffic will dispel any notion that I have compelling things to say or could capture an online audience, but until that illusion comes crashing down and swallows me in an existential tidal wave, I have convinced myself that *just one more* blog filled with tech musings, SEO-optimized post titles, raving book reviews, and borrowed tutorials is what this troubled world needs. Because I have the answer, I have seen the light, and another résumé masquerading as a blog is it.
 
 ## TODO
-[ ] Add tutorials collection
-[ X ] Extend front matter for books to include rating variable and add in html to generate it (actually implemented through includes and an html snippet)
-[ X ] Figure out how to do book covers for the book reviews
-[ X ] Add in published date to entry__items
-[ ] Add in book reviews to home page (in addition to posts)
-[ ] Add template for Book Reviews
-[ ] Add template for Posts
-[ ] Write About section
-[ ] Walk through all the settings again
+- [ ] Add tutorials collection
+- [ X ] Extend front matter for books to include rating variable and add in html to generate it (actually implemented through includes and an html snippet)
+- [ X ] Figure out how to do book covers for the book reviews
+- [ X ] Add in published date to entry__items
+- [ ] Add in book reviews to home page (in addition to posts)
+- [ ] Add template for Book Reviews
+- [ ] Add template for Posts
+- [ ] Write About section
+- [ ] Walk through all the settings again

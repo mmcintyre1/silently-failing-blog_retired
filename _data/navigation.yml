@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: Blog Posts
+  - title: Blog
     url: /posts/
-  - title: Book Reviews
-    url: /book-reviews/
+  - title: Books
+    url: /books/
   - title: About
     url: /about/

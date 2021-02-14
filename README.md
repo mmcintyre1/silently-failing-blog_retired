@@ -5,9 +5,9 @@ And another thing: the world needs me. Rather, I need the world to need me. I'm 
 
 ## TODO
 - [ ] Add tutorials collection
-- [ X ] Extend front matter for books to include rating variable and add in html to generate it (actually implemented through includes and an html snippet)
-- [ X ] Figure out how to do book covers for the book reviews
-- [ X ] Add in published date to entry__items
+- [x] Extend front matter for books to include rating variable and add in html to generate it (actually implemented through includes and an html snippet)
+- [x] Figure out how to do book covers for the book reviews
+- [x] Add in published date to entry__items
 - [ ] Add in book reviews to home page (in addition to posts)
 - [ ] Add template for Book Reviews
 - [ ] Add template for Posts

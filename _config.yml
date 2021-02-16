@@ -47,6 +47,7 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -193,6 +194,26 @@ whitelist:
   - jekyll-include-cache
 
 
+# octopress
+# Default extension for new posts and pages
+post_ext: md
+page_ext: md
+
+# Default templates for posts and pages
+# Found in _templates/
+# posts is defined in defaults in _config.yml
+# post_layout: post
+page_layout: posts
+
+# Format titles with titlecase?
+titlecase: true
+
+# Change default template file (in _templates/)
+post_template: post
+page_template: page
+draft_template: draft
+
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -253,6 +274,7 @@ defaults:
       related: true
       show_date: true
 
+  # _books
   - scope:
       path: ""
       type: books

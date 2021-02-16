@@ -2,10 +2,10 @@
 title: {{ title }}
 date: {{ date }}
 header:
-  teaser: /assets/images/books/{{ title }}.png
+  teaser: /assets/images/books/placeholder.png
 sidebar:
   - title: Author
-    image: /assets/images/books/{{ title }}.png
+    image: /assets/images/books/placeholder.png
     image_alt: A book cover
     text:
   - title: ISBN

@@ -1,11 +1,13 @@
 ---
 title: {{ title }}
 date: {{ date }}
+categories:
+  - books
 header:
-  teaser: /assets/images/books/placeholder.png
+  teaser: /assets/images/books/image-default.png
 sidebar:
   - title: Author
-    image: /assets/images/books/placeholder.png
+    image: /assets/images/books/image-default.png
     image_alt: A book cover
     text:
   - title: ISBN

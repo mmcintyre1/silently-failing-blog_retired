@@ -1,0 +1,18 @@
+---
+title: {{ title }}
+date: {{ date }}
+header:
+  teaser: /assets/images/books/{{ title }}.png
+sidebar:
+  - title: Author
+    image: /assets/images/books/{{ title }}.png
+    image_alt: A book cover
+    text:
+  - title: ISBN
+    text:
+  - title: Word Count
+    text:
+  - title: Pages
+    text:
+---
+{% include ratings.html rating=0%}

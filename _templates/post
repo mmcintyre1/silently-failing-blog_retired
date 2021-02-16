@@ -1,5 +1,8 @@
 ---
-layout: {{ layout }}
-title: "{{ title }}"
+title: {{ title }}
+categories:
+  - blog
+tags:
+  - placeholder
 date: {{ date }}
 ---

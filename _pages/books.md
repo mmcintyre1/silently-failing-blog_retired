@@ -1,8 +1,8 @@
 ---
 title: Book Reviews
-layout: collection
+layout: category
 permalink: /books/
-collection: books
+taxonomy: books
 entries_layout: grid
 classes: wide
 ---

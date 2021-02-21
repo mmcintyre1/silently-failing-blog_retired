@@ -12,6 +12,8 @@ sidebar:
     text:
   - title: ISBN
     text:
+  - title: Publication Year
+    text:
   - title: Word Count
     text:
   - title: Pages

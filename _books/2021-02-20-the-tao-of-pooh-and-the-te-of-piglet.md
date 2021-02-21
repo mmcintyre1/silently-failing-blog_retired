@@ -12,6 +12,8 @@ sidebar:
     text: Benjamin Hoff
   - title: ISBN
     text: 978-1405293778
+  - title: Publication Year
+    text: 1982 (The Tao of Pooh); 1992 (The Te of Piglet)
   - title: Word Count
     text: "100,000"
   - title: Pages

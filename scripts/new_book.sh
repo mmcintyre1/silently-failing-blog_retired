@@ -1,1 +1,1 @@
-bundle exec octopress new post $1 --template book
+bundle exec octopress new post $1 --template book --dir books

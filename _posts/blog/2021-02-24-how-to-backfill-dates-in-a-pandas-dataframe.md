@@ -1,12 +1,13 @@
 ---
-title: Test Post
+title: How to Backfill Dates in a Pandas Dataframe
 categories:
   - blog
 tags:
   - placeholder
-date: 2021-02-21T16:15:30-05:00
+date: 2021-02-24T22:10:09-05:00
 toc: true
 toc_label: Table of Contents
 toc_icon: cog
 author-profile: true
 ---
+

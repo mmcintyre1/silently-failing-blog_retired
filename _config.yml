@@ -15,16 +15,16 @@
 minimal_mistakes_skin    : air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Silently Failing"
+locale                   : en-US
+title                    : Silently Failing
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Michael McIntyre"
-description              : "An amazing website."
+subtitle                 :
+name                     : Michael McIntyre
+description              : A place where I talk about things I like
 url                      : https://silentlyfailing.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : mmcintyre1/silently-failing-blog
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/masthead-192x192.png
 logo                     : /assets/images/masthead-192x192.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)

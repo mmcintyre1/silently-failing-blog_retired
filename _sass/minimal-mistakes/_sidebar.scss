@@ -63,6 +63,7 @@
 
   img {
     width: 100%;
+    border-radius: $border-radius;
 
     &.emoji {
       width: 20px;
@@ -343,4 +344,3 @@
     margin-right: initial;
   }
 }
-

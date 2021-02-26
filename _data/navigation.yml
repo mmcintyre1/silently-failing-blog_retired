@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: Blog
-    url: /blog/
-  - title: Books
+  - title: things I think
+    url: /musings/
+  - title: how to do stuff
+    url: /how-tos/
+  - title: books I've read
     url: /books/
   - title: About
     url: /about/

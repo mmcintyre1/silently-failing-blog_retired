@@ -1,6 +1,7 @@
 ---
+title: about me
 permalink: /about/
-title: "About"
+layout: single
 ---
 
 This is my blog. There are many like it, but this one is mine. I can't guarantee I'll be in here in a year, or a month, and if you wanted to look through some of my old repositories, I'm clearly steeped in the stop-start engine sputter of project sprawl. Time to write a blog turns into what should I implement it in only plebeians use WordPress, I'm a Real Programmer, I should learn React but I guess I also need to learn Webpack but I'm also rubbish at CSS and apparently I need to learn Babel to transpile JS so it is compatible across browsers and what the hell is Koa or React Redux whatever and then after I copy and paste tutorial code and have a working site I grafted from someone elses creativity I need to figure out where to host this and might as well play around with load balancers and managed databases and then holy shit this would cost a billion dollars to stand up and I haven't even implemented a CMS and oh look, anything that isn't this, let me literally never touch this code again. The road to hell is paved with partially implemented blogs in shiny new frameworks.

@@ -1,7 +1,6 @@
 ---
 title: how to do stuff
 permalink: /how-tos/
-layout: tags
+layout: category
 taxonomy: how-tos
-author_profile: true
 ---

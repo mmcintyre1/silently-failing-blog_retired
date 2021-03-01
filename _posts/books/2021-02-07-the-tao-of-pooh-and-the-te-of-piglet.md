@@ -4,10 +4,10 @@ date: 2021-02-07T21:03:04-05:00
 categories:
   - books
 header:
-  teaser: /assets/images/books/tao_of_pooh.jpg
+  teaser: /assets/images/books/tao-of-pooh.jpg
 sidebar:
   - title: Author
-    image: /assets/images/books/tao_of_pooh.jpg
+    image: /assets/images/books/tao-of-pooh.jpg
     image_alt: A book cover
     text: Benjamin Hoff
   - title: ISBN

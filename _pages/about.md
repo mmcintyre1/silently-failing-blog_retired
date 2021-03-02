@@ -2,6 +2,8 @@
 title: about me & the site
 permalink: /about/
 layout: single
+pagination:
+  enabled: false
 ---
 
 ## about the site

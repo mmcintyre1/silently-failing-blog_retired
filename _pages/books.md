@@ -5,4 +5,6 @@ permalink: /books/
 taxonomy: books
 entries_layout: grid
 classes: wide
+paginate:
+  category: books
 ---

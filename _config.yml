@@ -161,14 +161,27 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# pagination
+pagination:
+  enabled: true
+  per_page: 4
+  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
+  extension: html
+  indexpage: 'index'
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -176,7 +189,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -265,3 +278,5 @@ defaults:
         overlay_color: "#000"
         overlay_filter: "0.5"
         overlay_image: /assets/images/default-header.jpg
+      pagination:
+        enabled: true

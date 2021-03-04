@@ -167,7 +167,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 pagination:
   enabled: true
   per_page: 4
-  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  permalink: '/page:num/' # Pages are index.html inside this folder (default)
   limit: 0
   sort_field: 'date'
   sort_reverse: true

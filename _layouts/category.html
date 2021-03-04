@@ -10,4 +10,8 @@ layout: archive
 
   {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
 
+  {% if site.pagination.enabled %}
+    {% include paginator.html %}
+  {% endif %}
+
 </div>

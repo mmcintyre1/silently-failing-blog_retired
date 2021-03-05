@@ -292,6 +292,8 @@ defaults:
   - scope:
       path: _pages
       type: pages
+    # these values need to be written in the _pages themselves
+    # for whatever reason they aren't inherited with paginator
     values:
       author_profile: true
       header:

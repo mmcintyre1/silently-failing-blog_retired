@@ -161,14 +161,47 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# pagination
+pagination:
+  enabled: true
+  per_page: 4
+  permalink: '/page:num/' # Pages are index.html inside this folder (default)
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
+  extension: html
+  indexpage: 'index'
 
-# Plugins (previously gems:)
+autopages:
+
+  # Site-wide kill switch, disable here and it doesn't run at all
+  enabled: false
+
+  # Category pages, omit entire config element to disable
+  categories:
+    # Optional, the list of layouts that should be processed for every category found in the site
+    layouts:
+      - 'autopage_category.html'
+    # Optional, the title that each category paginate page should get (:cat is replaced by the Category name)
+    title: 'Posts in category :cat'
+    # Optional, the permalink for the  pagination page (:cat is replaced),
+    # the pagination permalink path is then appended to this permalink structure
+    permalink: '/category/:cat'
+    slugify:
+      mode: 'default'   # :cat is slugified. Modes: default, raw, pretty, ascii, latin
+      case: false       # Whether to replace all uppercase letters with their lowercase counterparts
+
+
+      # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -176,7 +209,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -259,9 +292,13 @@ defaults:
   - scope:
       path: _pages
       type: pages
+    # these values need to be written in the _pages themselves
+    # for whatever reason they aren't inherited with paginator
     values:
       author_profile: true
       header:
         overlay_color: "#000"
         overlay_filter: "0.5"
         overlay_image: /assets/images/default-header.jpg
+      pagination:
+        enabled: true

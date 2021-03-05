@@ -6,7 +6,7 @@ taxonomy: books
 entries_layout: grid
 classes: wide
 pagination:
-  enabled: false
+  enabled: true
   category: books
-  per_page: 2
+  per_page: 1
 ---

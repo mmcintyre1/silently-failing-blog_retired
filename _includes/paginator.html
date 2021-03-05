@@ -32,10 +32,9 @@
     {% if pages_to_end > 4 %}
       {% assign page_end = paginator.page | plus: 2 %}
     {% endif %}
-
     {% for index in (page_start..page_end) %}
       {% if index == paginator.page %}
-        <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="disabled current">{{ index }}</a></li>
+        <li><a href="#" class="disabled current">{{ index }}</a></li>
       {% else %}
         {% comment %} Distance from current page and this link {% endcomment %}
         {% assign dist = paginator.page | minus: index %}
@@ -43,7 +42,7 @@
           {% comment %} Distance must be a positive value {% endcomment %}
           {% assign dist = 0 | minus: dist %}
         {% endif %}
-        <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ index }}</a></li>
+        <li><a href="{{ site.paginate_path | prepend: page.pagination.category | replace: ':num', index | absolute_url }}">{{ index }}</a></li>
       {% endif %}
     {% endfor %}
 
@@ -51,11 +50,10 @@
     {% if pages_to_end > 3 %}
       <li><a href="#" class="disabled">&hellip;</a></li>
     {% endif %}
-
     {% if paginator.page == paginator.total_pages %}
       <li><a href="#" class="disabled current">{{ paginator.page }}</a></li>
     {% else %}
-      <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ paginator.total_pages }}</a></li>
+      <li><a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ paginator.total_pages }}</a></li>
     {% endif %}
 
     {% comment %} Link next page {% endcomment %}

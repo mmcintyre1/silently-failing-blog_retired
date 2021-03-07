@@ -13,5 +13,5 @@ header:
 pagination:
   enabled: true
   category: books
-  per_page: 4
+  per_page: 20
 ---

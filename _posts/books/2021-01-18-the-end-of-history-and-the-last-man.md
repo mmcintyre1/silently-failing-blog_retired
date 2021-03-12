@@ -27,4 +27,4 @@ Fukuyama never quite delivers on the bombast of the title, hiding and hedging be
 It's not without its misses though -- it's easy to circle in red ink the misses of a book proclaiming the end of history, a book of prophecy. Chief among the concerns is that Fukuyama isn't a technologist, and I don't think the full story of world culture within the last 30 years can be told without mentioning the effect of the internet. Also, Fukuyama misses the rise of anocracies (Russia, the appeal of Donald Trump). Wikipedia tells me that from 1989 to 2013, the number of anocracies increased from 30 to 53.
 
 Regardless, it *is* an important work and deserving of the attention.
-{% include ratings.html rating=0%}
+{% include ratings.html rating=4%}

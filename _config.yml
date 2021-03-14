@@ -17,7 +17,7 @@ minimal_mistakes_skin    : air # "air", "aqua", "contrast", "dark", "dirt", "neo
 # Site Settings
 locale                   : en-US
 title                    : Silently Failing
-title_separator          : "-"
+title_separator          : ":"
 subtitle                 :
 name                     : Michael McIntyre
 description              : A place where I talk about things I like
@@ -137,7 +137,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: <!--more-->
 incremental: false
 
 

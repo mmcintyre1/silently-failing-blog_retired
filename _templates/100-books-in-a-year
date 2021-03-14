@@ -1,0 +1,8 @@
+---
+title: "{{ title }}"
+categories:
+  - thinkings
+tag: 100 books in a year
+date: {{ date }}
+author-profile: true
+---

@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: things I think
-    url: /musings/
+  - title: thinkings
+    url: /thinkings/
   - title: how to do stuff
     url: /how-tos/
   - title: books I've read

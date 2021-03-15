@@ -17,7 +17,7 @@ sidebar:
   - title: Word Count
     text: "156,000"
   - title: Pages
-    text: 464
+    text: 418
 ---
 #### Hegel, Marx, and Neitzche, walk into a bar...
 Postmodernism is the end of everything, the disbanding of the mythos of human culture for the last two thousand years, culminating in a mass exodus into the unreality of the real, the place where humanity is a social animal that learned self-control and built fictional structures to perpetuate that . As a species we've either outgrown the need for the myth (God is dead), or the myth has reached an equilibrium free of dialectical contradictions (liberal democracy). This work falls into the latter camp.

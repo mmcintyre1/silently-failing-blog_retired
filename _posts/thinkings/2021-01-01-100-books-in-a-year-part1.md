@@ -8,7 +8,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: 0.6
-  overlay_image: /assets/images/100-books-in-a-year/bookcase.jpg
+  overlay_image: /assets/images/100-books-in-a-year/bookcase.png
 date: 2021-01-01T00:00:00-5:00
 excerpt: The one where I sacrifice all other hobbies to the golden goddess of the written word because I love absurd goals and monotonically increasing numbers.
 ---

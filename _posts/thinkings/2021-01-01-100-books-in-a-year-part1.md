@@ -17,8 +17,10 @@ excerpt: The one where I sacrifice all other hobbies to the golden goddess of th
 
 It's been a slow year. My partner and I had decided we were going to head on out to a social event, a rare occurrence in these trying times, an occurrence now fraught with perils unimagined before. On the way out to the car, I swept up an Amazon package left on the doorstep (I like to give myself presents from the Amazon fairy; it's the only respite from the hellscape that is this current plane of existence). I knew it was a handful of books, books that I had 'saved for later' ages ago. I had finally depleted my backlog far enough to justify making the momentous homeward journey from saved to cart to doorstep.
 
-<img src="/assets/images/100-books-in-a-year/subway-fun.jpg" alt="chucky and bride out for a night" style="border-radius:5px;" width="400">
-{: style="text-align: center;"}
+<figure style="width: 450px; border-radius=: 10px;" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/100-books-in-a-year/subway-fun.jpg" alt="A night on the town.">
+  <figcaption>A night on the town.</figcaption>
+</figure>
 
 Since I was driving, I couldn't frenziedly tear at the package, as is my private custom, but I wanted to see the books. I was compelled to see the books. I needed to heft them, feel the fore-edge of the closed block of pages to assess smoothness, smell the pages, run my thumb across the cover to discover its texture. To assess the thickness of the paper and make relative judgments about the contents therein. Was the page thin, like a Bible page, coincidentally good for rolling prison cigarettes with? Or was it thick and hefty, like papyrus? I needed to imprint their physical presence in my memory. I realize none of this sounds healthy. If I approached you on the subway and said aloud any one of those previous thoughts, you would pull muscles trying to avert your gaze and wish a localized rip of space-time would open right in the space you currently occupied to sweep you forward to when you could remove yourself from the encounter, squirreling away the anecdote to surprise your roommate or partner or child with when you got home. You won't believe what some weirdo on the train asked me, you would say. I know this because I asked my partner those questions, and she knew me enough not to avert her stare. She called me weird without saying it, in the way that two people who know each other well have non-verbal reprimand.
 
@@ -27,8 +29,10 @@ Since I was driving, I couldn't frenziedly tear at the package, as is my private
 
 I think the message I'm trying to impart here, in an overstated way, is that I enjoy reading, and I enjoy books, and (not espoused in my above anecdote) I love counting towards something. Here I am, with a blog, a fascination for books, fingers to type, and the delusion that people might want to hear all about these things. You are my captive audience, my stranger on the subway, this blog is my _Nellie_ and these are my _Canterbury Tales_.
 
-<img src="/assets/images/100-books-in-a-year/time-now.jpg" alt="knowledge is money by master p" style="border-radius:5px; margin:20px;" width="400" height="100">
-{: .align-left}
+<figure style="width: 450px; border-radius=: 10px;" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/100-books-in-a-year/time-now.jpg" alt="There is finally time now.">
+  <figcaption>There is finally time now.</figcaption>
+</figure>
 
 Over the next 12 months, I am going to try to read 100 books. I haven't pre-selected these books, although I have a shelf right now with ~25 unread books on it. After I read each book, I'll write a short little summary or review or anecdote or just some lorem ipsum to keep my github commit streak alive, and each month I'll write another little bit about how my month went, with some numbers and (hopefully) comical and (dubiously) insightful remarks.
 
@@ -37,8 +41,10 @@ I'll be reading a wide genre (-Claude Van Damme) of books, from tech books on cl
 ### The Master P Guide to Success
 {: style="text-align: center;"}
 
-<img src="/assets/images/100-books-in-a-year/knowledge-is-success.png" alt="knowledge is money by master p" style="border-radius:5px; margin:20px;" width="400" height="100">
-{: .align-right}
+<figure style="width: 350px; border-radius=: 10px;" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/100-books-in-a-year/knowledge-is-success.png" alt="Knowledge is Money by Master P">
+  <figcaption>Master P's Money Light: anal</figcaption>
+</figure>
 
 I think other than the physical act of collecting books, I am fascinated with knowledge. I have always been an enthusiastic reader, opting for quiet afternoons with Vonnegut or Woolf or DFW to rabble-rousing socialiteism. My undergraduate degree was in Book Club 101, and I liked it so much I doubled down my debt to become a master of Book Clubs. In all seriousness, however, I view knowledge as mastery and I view books as the method of transaction. I can only live one life within the very real constraints of geography, experience, and exposure, but the knowledge within books allows me to cast that net further, to dream wider, to incorporate _more_ into who and what I am.
 

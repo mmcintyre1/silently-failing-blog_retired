@@ -1,5 +1,5 @@
 ---
-title: "100 Books in a Year: I Should've Picked a Leap Year"
+title: "100 Books in a Year (February): I Should've Waited for a Leap Year"
 categories:
   - thinkings
 tags:

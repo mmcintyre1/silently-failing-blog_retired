@@ -1,15 +1,16 @@
 ---
-title: "100 Books in a Year: Maybe I'm a Diesel Engine"
+title: "100 Books in a Year (January): Which Way am I Supposed to Run?"
 categories:
   - thinkings
 tags:
   - "100 books in a year"
 date: 2021-01-31T00:00:00-5:00
+excerpt: In which our intrepid hero puts up a number south of the 'read 100 books in a year' variant of the Mendoza line and begins to doubt the entire endeavor.
 ---
-Checking in for January. Maybe like a diesel engine it takes me a bit to warm up. Deliberately paced.
-<!--more-->
 
 Not a great start, but slow and steady wins the race.
+
+### Alternate Titles
 
 ### January's Stats
 
@@ -27,3 +28,5 @@ Not a great start, but slow and steady wins the race.
 4. [The End of History and the Last Man]({% post_url books/2021-01-18-the-end-of-history-and-the-last-man %})
 5. [A Song For A New Day]({% post_url books/2021-01-24-a-song-for-a-new-day %})
 6. [Together: Why Social Connection Holds the Key to Better Health, Higher Performance, and Greater Happiness]({% post_url books/2021-01-30-together %})
+
+## Next Post --> [**February, or _I Should've Waited for a Leap Year_**]({% post_url /thinkings/2021-02-28-100-books-in-a-year-february %})

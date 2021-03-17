@@ -13,3 +13,10 @@ And another thing: the world needs me. Rather, I need the world to need me. I'm 
 
 ## about me
 I love good prose, learning new things, opening things up to see how they work and struggling to put them back together again and I can't reconcile my strong and public opinion on the need for an oxford comma with my private actions.
+
+<figure>
+  <a href="/assets/images/things-i-like.png" >
+    <img src="/assets/images/things-i-like.png" alt="A series of things I like." style="border-radius:5px;" width="400">
+  </a>
+  <figcaption>Some things that Google photos says I like to take pictures of.</figcaption>
+</figure>

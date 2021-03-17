@@ -5,6 +5,11 @@ categories:
 tags:
   - "100 books in a year"
 date: 2021-01-31T00:00:00-5:00
+classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: 0.6
+  overlay_image: /assets/images/100-books-in-a-year/bookcase.png
 excerpt: In which our intrepid hero puts up a number south of the 'read 100 books in a year' variant of the Mendoza line and begins to doubt the entire endeavor.
 ---
 

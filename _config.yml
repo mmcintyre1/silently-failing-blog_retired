@@ -72,7 +72,7 @@ analytics:
 # Site Author
 author:
   name             : Michael McIntyre
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/self-portrait.png
   bio              : I like computers and computer accessories.
   location         : New Hampshire
   email            : mfmcintyre01@gmail.com

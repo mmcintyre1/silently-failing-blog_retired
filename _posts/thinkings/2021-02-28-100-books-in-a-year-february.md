@@ -14,6 +14,18 @@ header:
 classes: wide
 
 excerpt: Can I blame this month on the silicon shortage?
+
+sidebar:
+  - title: Word Count
+    text: "486,000"
+  - title: Page Count
+    text: "1,820"
+  - title: Current Pace
+    text: 74.16 books
+  - title: Favorite
+    text: "*Homo Deus*"
+  - title: Least Favorite
+    text: "*The Tao of Pooh and the Te of Piglet*"
 ---
 
 ### State of the Race
@@ -22,13 +34,13 @@ excerpt: Can I blame this month on the silicon shortage?
   <figcaption>I hope I don't have to use this one every month.</figcaption>
 </figure>
 
-Woof. Not a great month. If my love of RPGs and this entire endeavor is any indication, I love when the numbers get bigger, and the numbers did **not** get bigger this month. I blame it on the Playstation 5. I kept hearing finding one was as hard as finding Robert DeNiro's acting dignity the last 10 years. No one had one. Silicon was out of stock from the local silicon mines, and maybe this is China's fault or something. But did Robert DeNiro give up after *Little Fockers*? He sure as hell did not, firing off a trifecta of shit in *Last Vegas*, *The Intern*, and *Dirty Grandpa*. So would I let a little trade war with China deter me? Hell no, I was going to get myself a Playstation 5. I followed the twitter folks, hell, I made a twitter (doesn't matter when you are reading this, my twitter account probably still has one terrible tweet), lined up all the rows, shot down all the ducks, and proceeded to get a Playstation 5 pretty much first try.
+Woof. Not a great month. If my love of RPGs and this entire endeavor is any indication, I love when the numbers get bigger, and the numbers did **not** get bigger this month, although all things being equal, I actually increased pace this month. I blame it all on the Playstation 5. I kept hearing finding one was as hard as finding Robert DeNiro's acting dignity the last 10 years. Silicon was out of stock from local silicon mines and its China's fault or something. But did Robert DeNiro give up after *Little Fockers*? Hell no. He did the only reasonable thing someone who clearly owes a lot of money to disreputable people would, and said yes to *Last Vegas*, *The Intern*, and *Dirty Grandpa*. So would I let a little trade war with China deter me? Are you talking to me, because I am going to milk this DeNiro metaphor for all it is worth. I was going to get myself a Playstation 5. I followed the twitter folks, hell, I made a twitter, tweeted one god awful tweet for good measure, and proceeded to get a Playstation 5 within an hour.
 
 <figure style="width: 450px; border-radius=: 10px;" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/100-books-in-a-year/joker-plan.png" alt="Joker from the Batman movie with the caption, Do I really look like a guy with a plan.">
 </figure>
 
-I caught the car, but didn't have anything to play, so I went to an old reliable that I hadn't finished when it first came out, *Horizon Zero Dawn*, released when the video game industry was setting out to prove that woman can be homocidal mass murdering maniac protagonists just as well as men could be. Couple that all with a handful of not so great books in a row, and you get a month where I'm pumping stats with the *Tao Te Ching*, which is about as long as a diner menu and nearly as interesting.
+Now, I probably got lucky, but like any stroke of luck I'll choose to interpret this as divine graces shining on me because I'm super cool. So I caught the car, but didn't have anything to play, so I went to an old reliable that I hadn't finished when it first came out, *Horizon Zero Dawn*, released when the video game industry was setting out to prove that a woman can be homicidal mass-murdering maniac just as well as any man. Couple that all with a handful of not so great books in a row, and you get a month where I'm fluffing stats with the *Tao Te Ching*, which is about as long as the letters I keep getting from my local Jehovah's Witnesses telling me about the rapture, which I am tempted to respond to just to make sure my calendar is full then and I get left behind.
 
 <figure style="width: 450px; border-radius=: 10px;" class="align-right">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/100-books-in-a-year/horizon.jpg">
@@ -36,12 +48,12 @@ I caught the car, but didn't have anything to play, so I went to an old reliable
   </a>
 </figure>
 
-But let's not let that painfully uninteresting and discursive introduction let me off the hook for all the wonderful and clarifying things I'm going to say about this month's books, the insights I'll glean, the narratives I'll weave, as if all the books were working together in some larger narrative, some meta-narrative. I think there is probably a spectrum here that these synopses will take from LiveJournal to dissertation, and this month is firmly in the LiveJournal camp. Anyway, let's get this over with.
+But let's not let that painfully uninteresting and discursive introduction let me off the hook for all the wonderful and clarifying things I'm about to say about this month's books, the insights I'll glean, the narratives I'll weave, as if all the books were working together in some larger narrative, some meta-narrative. Now that I'm done my LiveJournal entry, like Robert DeNiro said while reading the script of *The War with Grandpa*, let's get this over with.
 
 ### Books?
-I remarked upon this in the review, but *The Tao of Pooh* got weirdly political, with a whole diatribe against chivalry and political correctness, which feels somewhat out of place for an eastern mysticism sort of thing, and certainly an odd interlude between two LGBT authors. I guess I just don't truck with that eastern mysticism of the eternal present, this idea that if you could cast of the reins of oppressive past and looming future, you can be Eternally Here&trade;, although I haven't found a ton of fulfillment working away for the looming future, so what the hell do I know. My one adage is to be good at what you do.
+I remarked upon this in the review, but *The Tao of Pooh* got weirdly political, with a whole diatribe against chivalry and political correctness, which feels somewhat out of place for an eastern mysticism sort of thing. I can imagine an ascetic sitting there preaching one with the way of the universe and all that but like slowly losing his mind because someone keeps clarifying their pronouns and the ascetic keeps getting called out for deadnaming the person. I guess I just don't truck with that eastern mysticism of the eternal present, this idea that if you could cast of the reins of oppressive past and looming future, you can be Eternally Here&trade;, although I haven't found a ton of fulfillment working away for the looming future, so what the hell do I know. I just try and be good at what I do and like Robert DeNiro, look for any opportunity for a quick paycheck.
 
-Speaking of good at what one does, I read another Harari book this month, *Homo Deus*. I really enjoy the man's ethos, if not where it might lead. The basic premise is humankind does one thing better than any other animal, and this is use fiction to describe reality. From this drive, all intersubjective reality rests; religion, government, capitalism, enmity and amity. Built on top of these intersubjective superstructures are the very real buildings and guns and tanks and physical apparatus of beliefs, but ultimately, all that physical presence relies on the communal agreement to their significance. *Homo Deus* seems to be in an interesting dialogue with liberalist thinkers like Dawkins and Pinker (and by extension Fukuyama and his end of history) in his [Harari's] claim that if there is no self there can't be any liberalism. It is a brand of purposeful nihilism, something flirting with the margins and edges of meaninglessness. I find it quite compelling. Its fun to deconstruct things like thought, self, soul, consistent being. Reminds me of Whitman. Section 51 from *Leaves of Grass* is too good (and short enough) to include in full:
+Speaking of good at what one does, I read another Harari book this month, *Homo Deus*. I really enjoy the man's ethos, if not where it might lead. Harari's framework allows us to deconstruct everything, not just the superstructures of religion or philosophy or government, but the ideas of self, of the eternal soul, of free will. From here there is an interesting dialogue happening with the liberalist thinkers (Pinker and Dawkins by name, Fukuyama by extension) against the tenets of liberal democracy. Where Harari deconstructs this idea of liberal democracy being the apotheosis of humanity is in these constructs of the self and soul. How can humanity reach some sort of terminus in humanism when we are really no different than animals, when everything we hold to elevate us out of the animal kingdom is a fiction? Do we have a consistent self, a soul, free will? Do we contain multitudes?
 
 ```
 The past and present wilt—I have fill'd them, emptied them.
@@ -63,8 +75,12 @@ Who wishes to walk with me?
 Will you speak before I am gone? will you prove already too late?
 ```
 
+*Leaves of Grass, Stanza 51*, -**Walt Whitman**
+
 ### Other odds and ends
-- Fences is a splendid movie, and heavy-set Denzel is great.
+- Fences is a splendid movie, and heavy-set Denzel is great. Viola Davis is great too. I think I have a few books coming up about toxic masculinity, especially as applied to black masculinity, so this is a nice preview, and August Wilson is definitely an important playwright, so maybe I'll pick up more of his work.
+- Another stop on the epistemic train -- what is thought, and are we really ever in control of our own thoughts, or is it more of a stream that can be (partially) directed? Is our thought always retrograde, always a post facto justification of whatever the biological algorithm dictates at any given point?
+
 
 ### Nice New Words
 1. **teleological** [ tel-ee-uh-**loj**-i-kuhl, tee-lee- ] *adjective Philosophy*.
@@ -106,17 +122,9 @@ the elevation or exaltation of a person to the rank of a god.
 eerie; weird; spooky.
 
 ### Favorite Quote
-> This is the best reason to learn history: not in order to predict the future, but to free yourself of the past and imagine alternative destinies. Of course this is not total freedom – we cannot avoid being shaped by the past. But some freedom is better than none.
+> Your outcomes are lagging indicators of your habits.
 
-*Homo Deus, Yuval Noah Harari*
-
-### February's Stats
-
-- **Word Count**: 486,000
-- **Page Count**: 1,820
-- **Current Pace**: 74.16 books
-- **Favorite Book**: *Homo Deus*
-- **Least Favorite Book**: *The Tao of Pooh and the Te of Piglet*
+*Atomic Habits*, -**James Clear**
 
 ### February's Books
 
@@ -127,3 +135,5 @@ eerie; weird; spooky.
 10. [Atomic Habits]({% post_url /books/2021-02-17-atomic-habits %})
 11. [Homo Deus]({% post_url /books/2021-02-25-homo-deus %})
 12. [Tao Te Ching]({% post_url /books/2021-02-28-tao-te-ching %})
+
+### <-- Previous Post [**January, or: _Which Way am I Supposed to Run?_**]({% post_url /thinkings/2021-01-31-100-books-in-a-year-january %})

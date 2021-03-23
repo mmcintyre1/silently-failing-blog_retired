@@ -7,7 +7,7 @@ categories:
 header:
   teaser: /assets/images/books/nickel-boys.jpg
 
-excerpt: "An exceeding clever book that works like a seven-layer dip, which is to say multiple levels."
+excerpt: "An exceedingly clever book that works like a seven-layer dip, which is to say multiple levels."
 
 sidebar:
   - title: Author

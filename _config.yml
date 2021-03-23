@@ -303,17 +303,23 @@ defaults:
       related: true
       show_date: true
 
+  # book reviews
+  - scope:
+      path: "_posts/books"
+      type: posts
+    values:
+      classes: wide
+      author_profile: false
+
   # _pages
   - scope:
-      path: _pages
+      path: "_pages"
       type: pages
-    # these values need to be written in the _pages themselves
-    # for whatever reason they aren't inherited with paginator
     values:
       author_profile: true
-      header:
-        overlay_color: "#000"
-        overlay_filter: "0.5"
-        overlay_image: /assets/images/default-header.jpg
-      pagination:
-        enabled: true
+      # header:
+      #   overlay_color: "#000"
+      #   overlay_filter: "0.5"
+      #   overlay_image: /assets/images/default-header.jpg
+      # pagination:
+      #   enabled: true

@@ -5,12 +5,27 @@ categories:
 tags:
   - "100 books in a year"
 date: 2021-01-31T00:00:00-5:00
+
 classes: wide
+
 header:
   overlay_color: "#000"
   overlay_filter: 0.6
   overlay_image: /assets/images/100-books-in-a-year/bookcase.png
+
 excerpt: In which our intrepid hero puts up a number south of the 'read 100 books in a year' variant of the Mendoza line and begins to doubt the entire endeavor.
+
+sidebar:
+  - title: Word Count
+    text: "737,281"
+  - title: Page Count
+    text: "2,356"
+  - title: Current Pace
+    text: 70.2 books
+  - title: Favorite
+    text: "*Pale Fire*"
+  - title: Least Favorite
+    text: "*Together, etc. etc.*"
 ---
 
 ### State of the Race
@@ -44,18 +59,9 @@ Moving on. The biggest contradiction of my life is that I haven't read more Nabo
 - **synecdoche**- *n.* A figure of speech in which the name of a part is used to stand for the whole (as hand for sailor), the whole for a part (as the law for police officer), the specific for the general (as cutthroat for assassin), the general for the specific (as thief for pickpocket), or the material for the thing made from it (as steel for sword).
 
 ### Favorite Quote
-> Your outcomes are lagging indicators of your habits.
+> But a commentator's obligations cannot be shirked, however dull the information he must collect and convey. Hence this note.
 
-*Atomic Habits, James Clear*
-
-### January's Stats
-
-- **Word Count**: 737,281
-- **Page Count**: 2,356
-- **Current Pace**: 70.2 books
-- **Favorite Book**: *Pale Fire*
-- **Least Favorite Book**: *Together, etc. etc.*
-
+*Pale Fire*, **Vladimir Nabokov**
 
 ### January's Books
 1. [Guns, Germs, and Steel]({% post_url /books/2021-01-08-guns-germs-and-steel %})
@@ -65,5 +71,5 @@ Moving on. The biggest contradiction of my life is that I haven't read more Nabo
 5. [A Song For A New Day]({% post_url books/2021-01-24-a-song-for-a-new-day %})
 6. [Together: Why Social Connection Holds the Key to Better Health, Higher Performance, and Greater Happiness]({% post_url books/2021-01-30-together %})
 
-### Next Post --> [**February, or _I Should've Waited for a Leap Year_**]({% post_url /thinkings/2021-02-28-100-books-in-a-year-february %})
+### Next Post --> [**February, or: _I Should've Waited for a Leap Year_**]({% post_url /thinkings/2021-02-28-100-books-in-a-year-february %})
 ### <-- Previous Post [**100 Books in a Year: In the Beginning...**]({% post_url /thinkings/2021-01-01-100-books-in-a-year-part1 %})

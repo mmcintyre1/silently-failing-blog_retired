@@ -94,7 +94,6 @@ footer:
       icon: fab fa-fw fa-github
       url: https://github.com/mmcintyre1
 
-
 # Reading Files
 include:
   - .htaccess

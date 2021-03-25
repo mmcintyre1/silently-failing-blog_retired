@@ -24,6 +24,7 @@ Anyway, after the needlessly long preamble (science says we learn better with a 
 
 First, let's set up some mock data. This data assumes we have some sort of aggregation function to group up dishes done. Imagine we queried our database like this:
 
+{% include code-header.html %}
 ``` sql
 SELECT
 /* we want to strip out time data and just leave the date */

@@ -134,3 +134,21 @@ $(document).ready(function() {
     }
   });
 });
+
+// JS for a copy button for code blocks
+const codeBlocks = document.querySelectorAll(
+  ".code-header + .highlighter-rouge"
+);
+const copyCodeButtons = document.querySelectorAll(".copy-code-button");
+copyCodeButtons.forEach((copyCodeButton, index) => {
+  const code = codeBlocks[index].innerText;
+
+  copyCodeButton.addEventListener("click", () => {
+    navigator.clipboard.writeText(code);
+    copyCodeButton.classList.add("copied");
+
+    setTimeout(() => {
+      copyCodeButton.classList.remove("copied");
+    }, 2000);
+  });
+});

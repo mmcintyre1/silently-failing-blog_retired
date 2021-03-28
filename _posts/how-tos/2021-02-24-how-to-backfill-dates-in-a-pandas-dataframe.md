@@ -186,9 +186,59 @@ timestamps	dishes_done
 ```
 
 ### Adding an Additional Data Point
-Fine, we've done it a few different ways, but what if we had another column, a `person`, and we wanted to find out what everyone's average daily dish washing counts were.
+Fine, we've done it a few different ways, but what if we had another column, a `person`, and we wanted to find out what everyone's average daily dish washing counts were. Imagine we were living in some sort of commune, and Samantha swears she does the most dishes on average, to the chagrin of Eric, Tabitha, and Malik.
 
-This lovely helper function.
+As is tradition, let's mock up some data. We've left Eric out, since no one really likes Eric anyway.
+
+```python
+import numpy as np
+import pandas as pd
+
+
+dates = pd.date_range(start='2021-01-01', periods=7)
+
+# we create this dataframe with three columns, the third
+# being dishes_done, which is important for when we
+# backfill later.
+data = [
+    [name, np.random.choice(dates), 1]
+    for name in ['Samantha', 'Tabitha', 'Malik']
+    for _ in range(3)
+]
+
+df = pd.DataFrame(
+    data=data,
+    columns=['person', 'timestamps', 'dishes_done']
+)
+```
+This looks something like this:
+
+```
++----------+---------------------+
+| person   | timestamps          |
++==========+=====================+
+| Samantha | 2021-01-03 00:00:00 |
++----------+---------------------+
+| Samantha | 2021-01-02 00:00:00 |
++----------+---------------------+
+| Samantha | 2021-01-04 00:00:00 |
++----------+---------------------+
+| Tabitha  | 2021-01-04 00:00:00 |
++----------+---------------------+
+| Tabitha  | 2021-01-05 00:00:00 |
++----------+---------------------+
+| Tabitha  | 2021-01-03 00:00:00 |
++----------+---------------------+
+| Malik    | 2021-01-04 00:00:00 |
++----------+---------------------+
+| Malik    | 2021-01-07 00:00:00 |
++----------+---------------------+
+| Malik    | 2021-01-02 00:00:00 |
++----------+---------------------+
+```
+
+Now we need to backfill the dates per *grouping* as opposed to globally, for which we can use something like this lovely helper function.
+
 ``` python
 def backfill_dates(df, date_column, id_column):
   return df.set_index(
@@ -199,4 +249,91 @@ def backfill_dates(df, date_column, id_column):
     'D', fill_value=0
       ).stack().sort_index(level=1).reset_index()
  ```
+
+ We can then call it like this.
+ ```python
+ # We drop the duplicates because we are naively populating
+ # the original dataframe, meaning that timestamp might repeat
+ # for a particular person. We could work around this upon initial dataset
+ # creation, but in the interest of brevity I'm just dropping them here.
+ df.drop_duplicates(['person', 'timestamp'], inplace=True)
+
+def backfill_dates(df, date_column, id_column):
+  return df.set_index(
+    [date_column, id_column]
+      ).unstack(
+    fill_value=0
+      ).asfreq(
+    'D', fill_value=0
+      ).stack().sort_index(level=1).reset_index()
+
+df = backfill_dates(df, 'timestamps', 'person')
+
+print(df.to_markdown(index=False, tablefmt="grid"))
+ ```
+
+Which results in something like this:
+
+```
++---------------------+----------+---------------+
+| timestamps          | person   |   dishes_done |
++=====================+==========+===============+
+| 2021-01-02 00:00:00 | Malik    |             1 |
++---------------------+----------+---------------+
+| 2021-01-03 00:00:00 | Malik    |             1 |
++---------------------+----------+---------------+
+| 2021-01-04 00:00:00 | Malik    |             0 |
++---------------------+----------+---------------+
+| 2021-01-05 00:00:00 | Malik    |             0 |
++---------------------+----------+---------------+
+| 2021-01-06 00:00:00 | Malik    |             1 |
++---------------------+----------+---------------+
+| 2021-01-02 00:00:00 | Samantha |             0 |
++---------------------+----------+---------------+
+| 2021-01-03 00:00:00 | Samantha |             1 |
++---------------------+----------+---------------+
+| 2021-01-04 00:00:00 | Samantha |             0 |
++---------------------+----------+---------------+
+| 2021-01-05 00:00:00 | Samantha |             0 |
++---------------------+----------+---------------+
+| 2021-01-06 00:00:00 | Samantha |             1 |
++---------------------+----------+---------------+
+| 2021-01-02 00:00:00 | Tabitha  |             0 |
++---------------------+----------+---------------+
+| 2021-01-03 00:00:00 | Tabitha  |             1 |
++---------------------+----------+---------------+
+| 2021-01-04 00:00:00 | Tabitha  |             0 |
++---------------------+----------+---------------+
+| 2021-01-05 00:00:00 | Tabitha  |             1 |
++---------------------+----------+---------------+
+| 2021-01-06 00:00:00 | Tabitha  |             0 |
++---------------------+----------+---------------+
+```
+
+From here, we can do some fun (who says dishes done isn't a grand time!) aggregations.
+
+```python
+agg_df = df.groupby('person').agg(
+        max_dishes_in_day=('dishes_done', 'max'),
+        avg_dishes_per_day=('dishes_done', 'mean'),
+        total_dishes_done=('dishes_done', 'sum')
+    )
+
+print(agg_df.to_markdown(tablefmt="grid"))
+```
+
+And we get a nice handy table to assess everyone's relative contribution.
+
+```
++----------+---------------------+----------------------+---------------------+
+| person   |   max_dishes_in_day |   avg_dishes_per_day |   total_dishes_done |
++==========+=====================+======================+=====================+
+| Malik    |                   1 |             0.5      |                   3 |
++----------+---------------------+----------------------+---------------------+
+| Samantha |                   1 |             0.333333 |                   2 |
++----------+---------------------+----------------------+---------------------+
+| Tabitha  |                   1 |             0.333333 |                   2 |
++----------+---------------------+----------------------+---------------------+
+```
+
 And there you have it. Now you can prove no one does anywhere near the amount of work they think they do.

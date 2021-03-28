@@ -1,5 +1,5 @@
 ---
-title: "Hallucinations"
+title: "hallucinations"
 date: 2021-03-05T20:31:26-05:00
 categories:
   - books

@@ -1,5 +1,5 @@
 ---
-title: The Nickel Boys
+title: the nickel boys
 date: 2021-03-08T19:48:36-05:00
 categories:
   - books

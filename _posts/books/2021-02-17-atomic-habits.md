@@ -1,5 +1,5 @@
 ---
-title: Atomic Habits
+title: atomic habits
 date: 2021-02-17T22:00:06-05:00
 categories:
   - books

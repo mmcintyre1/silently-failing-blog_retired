@@ -1,5 +1,5 @@
 ---
-title: "Head First: Design Patterns"
+title: "head first: design patterns"
 date: 2021-03-20T22:06:59-04:00
 categories:
   - books

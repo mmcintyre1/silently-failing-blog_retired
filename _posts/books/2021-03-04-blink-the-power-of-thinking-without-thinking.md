@@ -1,5 +1,5 @@
 ---
-title: "Blink: The Power of Thinking Without Thinking"
+title: "blink: the power of thinking without thinking"
 date: 2021-03-04T19:02:49-05:00
 categories:
   - books

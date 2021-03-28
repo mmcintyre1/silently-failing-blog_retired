@@ -1,5 +1,5 @@
 ---
-title: The Tao of Pooh and the Te of Piglet
+title: the tao of pooh and the te of piglet
 date: 2021-02-07T21:03:04-05:00
 categories:
   - books

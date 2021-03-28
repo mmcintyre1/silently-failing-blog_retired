@@ -1,5 +1,5 @@
 ---
-title: "Mythology"
+title: "mythology"
 date: 2021-03-23T00:33:00-04:00
 categories:
   - books

@@ -1,5 +1,5 @@
 ---
-title: "Manufacturing Consent"
+title: "manufacturing consent"
 date: 2021-03-26T23:59:54-04:00
 categories:
   - books

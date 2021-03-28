@@ -1,5 +1,5 @@
 ---
-title: Classic Computer Science Problems in Python
+title: classic computer science problems in python
 date: 2021-03-02T22:26:55-05:00
 categories:
   - books

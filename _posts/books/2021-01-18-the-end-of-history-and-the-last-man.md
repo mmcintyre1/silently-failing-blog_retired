@@ -1,5 +1,5 @@
 ---
-title: The End of History and the Last Man
+title: the end of history and the last man
 date: 2021-01-18T18:12:41-05:00
 categories:
   - books

@@ -1,5 +1,5 @@
 ---
-title: "The Denial of Death"
+title: "the denial of death"
 date: 2021-03-13T22:01:09-04:00
 categories:
   - books

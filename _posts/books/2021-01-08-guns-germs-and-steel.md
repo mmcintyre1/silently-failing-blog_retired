@@ -1,5 +1,5 @@
 ---
-title: "Guns, Germs, and Steel: The Fates of Human Societies"
+title: "guns, germs, and steel: the fates of human societies"
 date: 2021-01-08T18:50:43-05:00
 categories:
   - books

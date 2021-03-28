@@ -1,5 +1,5 @@
 ---
-title: Tao Te Ching
+title: tao te ching
 date: 2021-02-28T22:18:17-05:00
 categories:
   - books

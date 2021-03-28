@@ -1,5 +1,5 @@
 ---
-title: A Song for a New Day
+title: a song for a new day
 date: 2021-01-24T18:08:03-05:00
 categories:
   - books

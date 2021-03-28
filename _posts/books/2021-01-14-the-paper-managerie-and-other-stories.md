@@ -1,5 +1,5 @@
 ---
-title: The Paper Managerie and Other Stories
+title: the paper managerie and other stories
 date: 2021-01-14T18:19:03-05:00
 categories:
   - books

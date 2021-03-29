@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/mythology.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/mythology.jpg
     image_alt: A book cover
-    text: Edith Hamilton
+    text: edith hamilton
   - title: ISBN
-    text: 	9780316223331
-  - title: Publication Year
+    text: 9780316223331
+  - title: publication year
     text: 1942
-  - title: Word Count
+  - title: word count
     text: "121,000"
-  - title: Pages
+  - title: pages
     text: 482
 ---
 

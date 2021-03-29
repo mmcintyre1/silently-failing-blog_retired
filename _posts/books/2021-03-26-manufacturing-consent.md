@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/manufacturing-consent.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/manufacturing-consent.jpg
     image_alt: A book cover
-    text: Noam Chomsky, Edward S. Herman
-  - title: ISBN
+    text: noam chomsky, edward s. herman
+  - title: isbn
     text: 978-0375714498
-  - title: Publication Year
+  - title: publication year
     text: 1988
-  - title: Word Count
+  - title: word count
     text: "198,000"
-  - title: Pages
+  - title: pages
     text: 480
 ---
 

@@ -10,17 +10,17 @@ header:
 excerpt: "An exceedingly clever book that works like a seven-layer dip, which is to say multiple levels."
 
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/nickel-boys.jpg
     image_alt: A book cover
-    text: Colson Whitehead
+    text: colson whitehead
   - title: ISBN
     text: 978-0385537070
-  - title: Publication Year
+  - title: publication year
     text: 2019
-  - title: Word Count
+  - title: word count
     text: "57,000"
-  - title: Pages
+  - title: pages
     text: 224
 ---
 

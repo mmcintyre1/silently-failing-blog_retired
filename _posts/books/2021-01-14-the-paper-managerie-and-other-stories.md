@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/the-paper-managerie.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/the-paper-managerie.jpg
     image_alt: A book cover
-    text: Ken Liu
-  - title: ISBN
+    text: ken liu
+  - title: isbn
     text: 978-1481424363
-  - title: Publication Year
+  - title: publication year
     text: 2016
-  - title: Word Count
+  - title: word count
     text: "140,000"
-  - title: Pages
+  - title: pages
     text: 464
 ---
  came to Ken Liu after reading Cixin Liu's Remembrance of Earth's Past remarkable trilogy, of which Ken Liu translated the first and third novels. Owing to those translations being, in my extremely unqualified opinion, superior to Martinsen's second novel translation (my sole rubric of excellence here was how wooden the dialogue felt, which might have suffered no diffraction in the translation), I picked up what I had heard was a well-regarded and well-laureled book of short stories.

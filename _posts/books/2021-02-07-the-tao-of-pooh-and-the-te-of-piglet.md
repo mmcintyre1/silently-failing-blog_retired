@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/tao-of-pooh.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/tao-of-pooh.jpg
     image_alt: A book cover
-    text: Benjamin Hoff
-  - title: ISBN
+    text: benjamin hoff
+  - title: isbn
     text: 978-1405293778
-  - title: Publication Year
-    text: 1982 (The Tao of Pooh); 1992 (The Te of Piglet)
-  - title: Word Count
+  - title: publication year
+    text: 1982 (the tao of pooh); 1992 (the te of piglet)
+  - title: word count
     text: "100,000"
-  - title: Pages
+  - title: pages
     text: 425
 ---
 

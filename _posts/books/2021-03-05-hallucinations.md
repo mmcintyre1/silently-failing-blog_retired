@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/hallucinations.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/hallucinations.jpg
     image_alt: A book cover
-    text: Oliver Sacks
-  - title: ISBN
+    text: oliver sacks
+  - title: isbn
     text: 978-0307947437
-  - title: Publication Year
+  - title: publication year
     text: 2012
-  - title: Word Count
+  - title: word count
     text: "88,000"
-  - title: Pages
+  - title: pages
     text: 352
 ---
 Oliver Sacks is an anthropologist of the mind. He weaves biography with neurology, wrapping it all together into a breadth-spanning survey of a topic. He sets his sights on Hallucinations in this work, moving from those phantom and fantastical images caused by failing or failed eyesight to epileptic illusions to autobiography of drug-induced delirium to the culturally shared terrors of sleep paralysis, and a few other stops along the way.

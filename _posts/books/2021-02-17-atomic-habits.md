@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/atomic-habits.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/atomic-habits.jpg
     image_alt: A book cover
-    text: James Clear
-  - title: ISBN
+    text: james clear
+  - title: isbn
     text: 978-0735211292
-  - title: Publication Year
+  - title: publication year
     text: 2018
-  - title: Word Count
+  - title: word count
     text: "76,000"
-  - title: Pages
+  - title: pages
     text: 282
 ---
 > Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.

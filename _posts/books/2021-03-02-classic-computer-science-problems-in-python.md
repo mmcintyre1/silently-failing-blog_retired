@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/classic-comp-sci-in-python.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/classic-comp-sci-in-python.jpg
     image_alt: A book cover
-    text: David Kopec
-  - title: ISBN
+    text: david kopec
+  - title: isbn
     text: 978-1617295980
-  - title: Publication Year
+  - title: publication year
     text: 2019
-  - title: Word Count
+  - title: word count
     text: "66,000"
-  - title: Pages
+  - title: pages
     text: 224
 ---
 

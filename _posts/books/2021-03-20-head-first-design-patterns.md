@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/head-first-design.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/head-first-design.jpg
     image_alt: A book cover
-    text: Elisabeth Robson; Eric Freeman
+    text: elisabeth robson; eric freeman
   - title: ISBN
     text: 978-1492078005
-  - title: Publication Year
+  - title: publication year
     text: 2020
-  - title: Word Count
+  - title: word count
     text: "168,000"
-  - title: Pages
+  - title: pages
     text: 672
 ---
 

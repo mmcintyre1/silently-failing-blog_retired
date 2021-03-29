@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/the-end-of-history.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/the-end-of-history.jpg
     image_alt: A book cover
-    text: Francis Fukuyama
-  - title: ISBN
+    text: francis fukuyama
+  - title: isbn
     text: 978-0743284554
-  - title: Publication Year
+  - title: publication year
     text: 1992
-  - title: Word Count
+  - title: word count
     text: "156,000"
-  - title: Pages
+  - title: pages
     text: 418
 ---
 #### Hegel, Marx, and Neitzche, walk into a bar...

@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/guns-germs-and-steel.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/guns-germs-and-steel.jpg
     image_alt: A book cover
-    text: Jared Diamond
-  - title: ISBN
+    text: jared diamond
+  - title: isbn
     text: 978-0393354324
-  - title: Publication Year
+  - title: publication year
     text: 1997
-  - title: Word Count
+  - title: word count
     text: "146,000"
-  - title: Pages
+  - title: pages
     text: 528
 ---
 This book still feels timely stepping into 2021, and it's still a largely helpful refresher to fight against the racist ideology of racial determinism. We have seen a human institution in American Republicanism and Trumpism argue in subtle (and often deafening-clarion-loud) tones the tenets of racial determinism to demonize the other, and a lazy mind stops questioning at the first cause (it may be that the most important takeaway from this book is that a rigorous interrogation of causes unveils deeper, and often contradictory to the initial assessment, truth). White power at it's core is wrapped up in the white race's inherent exceptionalism when the reality belies any racial exceptionalism, and this book serves as a potent argument against the historical interpretation.

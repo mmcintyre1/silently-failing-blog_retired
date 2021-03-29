@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/tao-te-ching.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/tao-te-ching.jpg
     image_alt: A book cover
-    text: Lao Tzu, Stephen Mitchell
-  - title: ISBN
+    text: lao tzu, stephen mitchell (t)
+  - title: isbn
     text: 978-0061142666
-  - title: Publication Year
+  - title: publication year
     text: 2006
-  - title: Word Count
+  - title: word count
     text: "14,000"
-  - title: Pages
+  - title: pages
     text: 128
 ---
 > I have just three things to teach: simplicity, patience, compassion.

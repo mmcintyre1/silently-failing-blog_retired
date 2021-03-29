@@ -8,17 +8,17 @@ header:
   teaser: /assets/images/books/denial-of-death.jpg
 
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/denial-of-death.jpg
     image_alt: A book cover
-    text: Ernest Becker
+    text: ernest becker
   - title: ISBN
     text: 9780684832401
-  - title: Publication Year
+  - title: publication year
     text: 1973
-  - title: Word Count
+  - title: word count
     text: "122,000"
-  - title: Pages
+  - title: pages
     text: 336
 
 excerpt: We are gods with anuses.

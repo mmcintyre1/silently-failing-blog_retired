@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/a-memory-called-empire.jpg
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/a-memory-called-empire.jpg
     image_alt: A book cover
-    text: Arkady Martine
-  - title: ISBN
+    text: arkady martine
+  - title: isbn
     text: 978-1250186447
-  - title: Publication Year
+  - title: publication year
     text: 2019
-  - title: Word Count
+  - title: word count
     text: "130,000"
-  - title: Pages
+  - title: pages
     text: 480
 ---
 

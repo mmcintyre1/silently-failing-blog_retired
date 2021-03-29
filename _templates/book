@@ -6,17 +6,17 @@ categories:
 header:
   teaser: /assets/images/books/image-default.png
 sidebar:
-  - title: Author
+  - title: author
     image: /assets/images/books/image-default.png
     image_alt: A book cover
     text:
-  - title: ISBN
+  - title: isbn
     text:
-  - title: Publication Year
+  - title: publication year
     text:
-  - title: Word Count
+  - title: word count
     text:
-  - title: Pages
+  - title: pages
     text:
 ---
 {% include ratings.html rating=0%}

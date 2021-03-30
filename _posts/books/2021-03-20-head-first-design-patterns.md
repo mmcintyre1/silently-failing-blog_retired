@@ -10,7 +10,7 @@ sidebar:
     image: /assets/images/books/head-first-design.jpg
     image_alt: A book cover
     text: elisabeth robson; eric freeman
-  - title: ISBN
+  - title: isbn
     text: 978-1492078005
   - title: publication year
     text: 2020

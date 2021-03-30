@@ -12,7 +12,7 @@ sidebar:
     image: /assets/images/books/denial-of-death.jpg
     image_alt: A book cover
     text: ernest becker
-  - title: ISBN
+  - title: isbn
     text: 9780684832401
   - title: publication year
     text: 1973

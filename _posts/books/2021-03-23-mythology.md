@@ -10,7 +10,7 @@ sidebar:
     image: /assets/images/books/mythology.jpg
     image_alt: A book cover
     text: edith hamilton
-  - title: ISBN
+  - title: isbn
     text: 9780316223331
   - title: publication year
     text: 1942

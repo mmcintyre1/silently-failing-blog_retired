@@ -14,7 +14,7 @@ sidebar:
     image: /assets/images/books/nickel-boys.jpg
     image_alt: A book cover
     text: colson whitehead
-  - title: ISBN
+  - title: isbn
     text: 978-0385537070
   - title: publication year
     text: 2019

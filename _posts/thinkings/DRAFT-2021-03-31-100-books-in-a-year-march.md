@@ -39,17 +39,30 @@ generic movie tropes bingo:
 - love interest walks in while hero is (often unwillingly) being kissed by rival
 - outrageously large strong guy enters the scene, the hero wallops him a few times to no effect -- bonus points if outrageously strong guy is defeated easily by some surprising device
 - many characters arguing in the background, one character in the foreground staring off past the camera at something peculiar or frightening, all while say guys louder and louder until they scream it and background characters stop arguing to see the peculiar thing
+- bad guy issues ultimatum after taking over ALL tv stations. Bonus points if there is a shot of someone trying to change the channel like the people in infomercials who need to demonstrate the difficulty of a task by spilling soda while sitting down or bang their head tying their shoes
 
 ### Books?
 
 
 ### Other odds and ends
+- Hercules murdering his entire family? Where was that in the Disney version?
+- Pleiades, the star cluster, in Japanese is **Subaru**
 
 
 ### Nice New Words
 1. **teleological** [ tel-ee-uh-**loj**-i-kuhl, tee-lee- ] *adjective Philosophy*.
 
 of or relating to teleology, the philosophical doctrine that final causes, design, and purpose exist in nature.
+
+{:start="2"}
+2. **stationarity**
+
+{:start="3"}
+3. **catasterism**
+
+
+
+
 
 ### Favorite Quote
 

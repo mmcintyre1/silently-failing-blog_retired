@@ -18,6 +18,8 @@ sidebar:
     text: "198,000"
   - title: pages
     text: 480
+
+excerpt: Unsurprisingly, the United States government has conscripted corporate media to peddle its propaganda.
 ---
 
 The Propaganda Model

@@ -18,6 +18,8 @@ sidebar:
     text: "39,000"
   - title: pages
     text: 288
+
+excerpt: An Asian Man gets to talk.
 ---
 Use of colors: Green, White, Black, Red (am I just listing the colors here?).
 

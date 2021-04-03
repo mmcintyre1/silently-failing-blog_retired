@@ -34,12 +34,15 @@ sidebar:
   <figcaption></figcaption>
 </figure>
 
-watching the marvel cinematic universe because I am 6 years behind the zeitgeist and I just want to feel part of something. A lot of super heroes are just outrageous propaganda. Captain America.
+watching the marvel cinematic universe because I am 6 years behind the zeitgeist and I just want to feel part of something. A lot of super heroes are just outrageous propaganda. See: Captain America.
 generic movie tropes bingo:
 - love interest walks in while hero is (often unwillingly) being kissed by rival
 - outrageously large strong guy enters the scene, the hero wallops him a few times to no effect -- bonus points if outrageously strong guy is defeated easily by some surprising device
 - many characters arguing in the background, one character in the foreground staring off past the camera at something peculiar or frightening, all while say guys louder and louder until they scream it and background characters stop arguing to see the peculiar thing
 - bad guy issues ultimatum after taking over ALL tv stations. Bonus points if there is a shot of someone trying to change the channel like the people in infomercials who need to demonstrate the difficulty of a task by spilling soda while sitting down or bang their head tying their shoes
+- good guy is actually bad guy
+- universe that is impossibly futuristic with like amazing science and still fights with spears and swords
+
 
 ### Books?
 
@@ -47,6 +50,7 @@ generic movie tropes bingo:
 ### Other odds and ends
 - Hercules murdering his entire family? Where was that in the Disney version?
 - Pleiades, the star cluster, in Japanese is **Subaru**
+- Government spends ~1 billion on PR, [and more than half of that is from the Pentagon](https://reason.com/2016/10/10/the-pentagon-accounts-for-more-than-half/)
 
 
 ### Nice New Words
@@ -60,12 +64,9 @@ of or relating to teleology, the philosophical doctrine that final causes, desig
 {:start="3"}
 3. **catasterism**
 
-
-
-
-
 ### Favorite Quote
-
+> We are gods with anuses.
+ernest becker, denial of death
 
 ### February's Books
 

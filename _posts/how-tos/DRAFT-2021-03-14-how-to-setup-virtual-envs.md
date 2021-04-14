@@ -1,5 +1,5 @@
 ---
-title: How to Setup Python Virtual Environments
+title: how to setup python virtual environments
 categories:
   - how-tos
 tags:
@@ -13,4 +13,5 @@ toc_icon: cog
 toc_sticky: true
 
 author-profile: true
+excerpt: ""
 ---

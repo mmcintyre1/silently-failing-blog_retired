@@ -61,7 +61,7 @@ Moving on. The biggest contradiction of my life is that I haven't read more Nabo
 ### favorite quote
 > But a commentator's obligations cannot be shirked, however dull the information he must collect and convey. Hence this note.
 
-*Pale Fire*, **Vladimir Nabokov**
+*Pale Fire* **Vladimir Nabokov**
 
 ### january's books
 1. [guns, germs, and steel]({% post_url /books/2021-01-08-guns-germs-and-steel %})
@@ -71,5 +71,6 @@ Moving on. The biggest contradiction of my life is that I haven't read more Nabo
 5. [a song for a new day]({% post_url books/2021-01-24-a-song-for-a-new-day %})
 6. [together: why social connection holds the key ...]({% post_url books/2021-01-30-together %})
 
-### next post --> [**february, or: _i should've waited for a leap year_**]({% post_url /thinkings/2021-02-28-100-books-in-a-year-february %})
-### <-- previous post [**100 books in a year: in the beginning...**]({% post_url /thinkings/2021-01-01-100-books-in-a-year-part1 %})
+
+## next post --> [**february, or: _i should've waited for a leap year_**]({% post_url /thinkings/2021-02-28-100-books-in-a-year-february %})
+## <-- previous post [**100 books in a year: in the beginning...**]({% post_url /thinkings/2021-01-01-100-books-in-a-year-part1 %})

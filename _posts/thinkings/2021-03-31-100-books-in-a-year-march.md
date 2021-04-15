@@ -86,14 +86,14 @@ I did clean up some older books on the shelf in *Mythology*, *Manufacturing Cons
 ### march's books
 
 {:start="13"}
-13. [classic computer science problems in python]({% post_url 2021-03-02-classic-computer-science-problems-in-python %})
-14. [blink: the power of thinking without thinking]({% post_url 2021-03-04-blink-the-power-of-thinking-without-thinking %})
-15. [hallucinations]({% post_url 2021-03-05-hallucinations %})
-16. [the nickel boys]({% post_url 2021-03-08-the-nickel-boys %})
-17. [the denial of death]({% post_url 2021-03-13-the-denial-of-death %})
-18. [head first: design patterns]({% post_url 2021-03-20-head-first-design-patterns %})
-19. [mythology]({% post_url 2021-03-23-mythology %})
-20. [manufacturing consent]({% post_url 2021-03-26-manufacturing-consent %})
-21. [interior chinatown]({% post_url 2021-03-28-interior-chinatown %})
+13. [classic computer science problems in python]({% post_url books/2021-03-02-classic-computer-science-problems-in-python %})
+14. [blink: the power of thinking without thinking]({% post_url books/2021-03-04-blink-the-power-of-thinking-without-thinking %})
+15. [hallucinations]({% post_url books/2021-03-05-hallucinations %})
+16. [the nickel boys]({% post_url books/2021-03-08-the-nickel-boys %})
+17. [the denial of death]({% post_url books/2021-03-13-the-denial-of-death %})
+18. [head first: design patterns]({% post_url books/2021-03-20-head-first-design-patterns %})
+19. [mythology]({% post_url books/2021-03-23-mythology %})
+20. [manufacturing consent]({% post_url books/2021-03-26-manufacturing-consent %})
+21. [interior chinatown]({% post_url books/2021-03-28-interior-chinatown %})
 
 ### <-- previous post [**february, or: _i should've waited for a leap year_**]({% post_url /thinkings/2021-02-28-100-books-in-a-year-february %})

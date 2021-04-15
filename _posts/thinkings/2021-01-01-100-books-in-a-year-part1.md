@@ -55,3 +55,4 @@ I'll be updating this page as a landing zone for each month's update.
 
 - [**january, or: _which way am i supposed to run?_**]({% post_url /thinkings/2021-01-31-100-books-in-a-year-january %})
 - [**february, or: _i should've waited for a leap year_**]({% post_url /thinkings/2021-02-28-100-books-in-a-year-february %})
+- [**march, or: _in like a lion, out like a lion_**]({% post_url /thinkings/2021-03-31-100-books-in-a-year-march %})

@@ -75,7 +75,7 @@ Who wishes to walk with me?
 Will you speak before I am gone? will you prove already too late?
 ```
 
-*leaves of grass, stanza 51*, -**walt whitman**
+**leaves of grass, stanza 51** *walt whitman*
 
 ## other odds and ends
 - Fences is a splendid movie, and heavy-set Denzel is great. Viola Davis is great too. I think I have a few books coming up about toxic masculinity, especially as applied to black masculinity, so this is a nice preview, and August Wilson is definitely an important playwright, so maybe I'll pick up more of his work.
@@ -136,4 +136,5 @@ eerie; weird; spooky.
 11. [homo deus]({% post_url /books/2021-02-25-homo-deus %})
 12. [tao te ching]({% post_url /books/2021-02-28-tao-te-ching %})
 
+### next post --> [**march, or: _in like a lion, out like a lion_**]({% post_url /thinkings/2021-03-31-100-books-in-a-year-march %})
 ### <-- previous post [**january, or: _which way am i supposed to run?_**]({% post_url /thinkings/2021-01-31-100-books-in-a-year-january %})

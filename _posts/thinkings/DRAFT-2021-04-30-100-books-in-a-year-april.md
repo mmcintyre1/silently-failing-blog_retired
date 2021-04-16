@@ -52,13 +52,13 @@ sidebar:
 1. **ontology**
 
 ### favorite quote
-> We are gods with anuses.
 
-*denial of death* **ernest becker**
 
 ### march's books
 
 {:start="22"}
-22. [n]({% post_url books/ %})
+22. [being mortal]({% post_url /books/2021-04-03-being-mortal %})
+23. [on intelligence]({% post_url /books/2021-04-08-on-intelligence %})
+24. [give and take]({% post_url /books/2021-04-15-give-and-take %})
 
 ### <-- previous post [**february, or: _i should've waited for a leap year_**]({% post_url /thinkings/2021-02-28-100-books-in-a-year-february %})

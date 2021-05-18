@@ -36,10 +36,7 @@ sidebar:
 
 
 ### heading 2
-<figure style="width: 450px; border-radius=: 10px;" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/100-books-in-a-year/dunking.jpg" alt="A poorly drawn image of one person, supposedly Michael Jordan, dunking while shoving away someone else.">
-  <figcaption>Artist's rendition of my month of reading.</figcaption>
-</figure>
+
 
 
 ### other odds and ends
@@ -56,9 +53,7 @@ sidebar:
 
 ### march's books
 
-{:start="22"}
+{:start="27"}
 22. [being mortal]({% post_url /books/2021-04-03-being-mortal %})
-23. [on intelligence]({% post_url /books/2021-04-08-on-intelligence %})
-24. [give and take]({% post_url /books/2021-04-15-give-and-take %})
 
 ### <-- previous post [**february, or: _i should've waited for a leap year_**]({% post_url /thinkings/2021-02-28-100-books-in-a-year-february %})
